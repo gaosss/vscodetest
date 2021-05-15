@@ -19,7 +19,7 @@ class MybidPage extends Component {
 
     render() {
         return (
-            <div>
+            <div>this is change #2
                 <header>this is my bid page </header>
                 <div>
 
